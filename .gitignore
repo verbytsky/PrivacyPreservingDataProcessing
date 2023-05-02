@@ -1,0 +1,24 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# PyCharm specific
+.idea/
+
+# Dataset files
+data/
+
+# Logs
+logs/
+
+# MacOS specific
+.DS_Store
